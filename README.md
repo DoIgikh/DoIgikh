@@ -1,4 +1,4 @@
-# Hello world, I'm Mikhail and QA Enginner.
+# Hello world, I'm Mikhail and I QA Enginner.
 
 <div align="center">
 
