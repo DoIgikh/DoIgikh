@@ -1,4 +1,4 @@
-# Hello world, I'm Mikhail.
+# Hello world, I'm Mikhail and QA Enginner.
 
 <div align="center">
 
@@ -20,7 +20,7 @@ _Меня зовут Михаил. Я QA Enginner - cильный специал
 - Тестовая документация
   -  [Check-list / Чек-листы](https://ссылочку_сюда)
   -  [Test case / Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
+  -  [Mind maps / Интеллект карты](https://ссылочку_сюда)
   -  [Bug reports / Баг-репорты](https://ссылочку_сюда)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
