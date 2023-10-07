@@ -107,6 +107,6 @@ _Меня зовут Михаил. Я QA Enginner - специалист в об
 ## Мои контакты
 
 [![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jennaqa)
-[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)
+[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/m.m.dolgikh)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/doIgikh)
 
